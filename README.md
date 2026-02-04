@@ -1,7 +1,7 @@
 # ZIYODULLAYEV DOSTON
 
 👨‍💻 Software Engineer  
-📊 Data Science Student  
+📊 Data Science/AI 
 
 ## 🎯 Yo‘nalish
 Dasturiy ta’minot muhandisligi va ma'lumotlar ilmi bo‘yicha o‘quv va amaliy loyihalar.
